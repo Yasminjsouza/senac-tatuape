@@ -1,2 +1,2 @@
-# senac-tatuape
-O objetivo desse repositório é arquivar as informação das aulas do curso de informática
+# PJ: senac-tatuape
+O objetivo desse repositório é arquivar as informações das aulas do curso de informática
