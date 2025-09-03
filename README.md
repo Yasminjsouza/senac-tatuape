@@ -1,33 +1,28 @@
-# 📚 Repositório do Curso de Informática - SENAC Tatuapé
+# Repositório do Curso de Informática – Senac Tatuapé
 
-Bem-vindo(a) ao repositório!  
-O objetivo deste espaço é **arquivar, organizar e documentar** os conteúdos estudados ao longo do curso de **Informática** no **Senac Tatuapé**.  
-
-Aqui encontrará materiais, anotações e procedimentos das aulas, servindo como apoio nos estudos e consulta futura.  
-O repositório será **atualizado gradativamente** conforme o avanço nas Unidades Curriculares (UCs).  
+Este repositório tem como objetivo arquivar, organizar e documentar os conteúdos estudados ao longo do curso de **Informática** no **Senac Tatuapé**. O conteúdo será atualizado gradualmente, conforme o avanço nas Unidades Curriculares (UCs).
 
 ---
 
-## 📖 Conteúdos já estudados
+## Conteúdos Estudados
 
 ### UC-1
-- 🔧 **Teoria de Hardware**  
-- ⚡ **Eletrônica Básica com Arduino**  
-- 🌐 **Git e GitHub**  
-- 🤖 **Inteligência Artificial (IA) - Introdução**  
+- Teoria de Hardware
+- Eletrônica Básica com Arduino
+- Git e GitHub
+- Introdução à Inteligência Artificial (IA)
 
-### UC-2 *(em andamento)*
-- 💻 **Sistemas Operacionais Microsoft**  
-- 🐧 **Sistemas Operacionais Open Source (GNU/Linux)**  
+### UC-2 
+- Sistemas Operacionais Microsoft
+- Sistemas Operacionais Open Source (GNU/Linux)
+- Conceitos de Administração e Uso de Sistemas Operacionais
 
 ---
 
-## 📌 Observações
-- Este repositório facilita a documentação e os procedimentos das aulas.  s.  
+### 📌Observações
+Este repositório foi criado para facilitar a documentação, a organização e a consulta dos conteúdos apresentados em aula. Novas atualizações serão incluídas conforme o progresso nas UCs.
+
 ---
 
-
-📍 *Curso de Informática - Senac Tatuapé*  
-
-
-### Yasmin Souza
+**Autor(a): Yasmin**  
+***Curso de Informática – Senac Tatuapé***
